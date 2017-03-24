@@ -1,2 +1,2 @@
 FROM websphere-liberty:latest
-COPY ear-exploded /config/dropins/
+COPY war-exploded /config/dropins/
